@@ -2,6 +2,8 @@
 
 This is a list of Swiss charitable organizations in the form of open data. We are crowdsourcing this data, please feel free to contribute to the `data/crowd.csv` file.
 
+[![Data Package logo](https://assets.okfn.org/p/data/img/icon-128.png)](https://data.okfn.org/tools/view?url=https%3A%2F%2Fraw.githubusercontent.com%2Fschoolofdata-ch%2Fswiss-charities%2Fmaster%2Fdatapackage.json)
+
 ## Zewo data
 
 We are also trying to contact Stiftung Zewo, who has a list of organizations registered with its certification program at https://www.zewo.ch/de/npo-suche/
