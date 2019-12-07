@@ -1,0 +1,68 @@
+{
+  "name": "swiss-charities",
+  "title": "Swiss Charities",
+  "resources": [
+    {
+      "path": "data/crowd.csv",
+      "pathType": "local",
+      "name": "crowd",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "UTF-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "post_id",
+            "type": "integer",
+            "format": "default",
+            "description": "Identifier from Zewo data"
+          },
+          {
+            "name": "post_type",
+            "type": "string",
+            "format": "default",
+            "description": "Short string type of organization"
+          },
+          {
+            "name": "post_title",
+            "type": "string",
+            "format": "default",
+            "description": "The official name of the organization"
+          },
+          {
+            "name": "post_date_formatted",
+            "type": "string",
+            "format": "default",
+            "description": "Date it was added or updated"
+          },
+          {
+            "name": "permalink",
+            "type": "string",
+            "format": "uri",
+            "description": "Link to further information"
+          },
+          {
+            "name": "intro_text",
+            "type": "string",
+            "format": "default",
+            "description": "A brief summary about the organization"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ],
+  "licenses": [
+    {
+      "name": "ODC-PDDL",
+      "path": "http://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License"
+    }
+  ]
+}
