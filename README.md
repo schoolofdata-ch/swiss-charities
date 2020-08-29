@@ -1,6 +1,6 @@
 # Swiss Charities
 
-This is a list of Swiss charitable organizations in the form of open data. We are crowdsourcing this data, please feel free to contribute to the `data/crowd.csv` file.
+This is a list of Swiss charitable organizations in the form of open data. We are crowdsourcing this data, please feel free to contribute to the `data/crowd.csv` file. See also https://github.com/OpendataCH/charities
 
 [![Data Package logo](https://assets.okfn.org/p/data/img/icon-128.png)](https://data.okfn.org/tools/view?url=https%3A%2F%2Fraw.githubusercontent.com%2Fschoolofdata-ch%2Fswiss-charities%2Fmaster%2Fdatapackage.json)
 
