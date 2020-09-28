@@ -1,3 +1,5 @@
+[![goodtables.io](https://goodtables.io/badge/github/schoolofdata-ch/swiss-charities.svg)](https://goodtables.io/github/schoolofdata-ch/swiss-charities)
+
 # Swiss Charities
 
 This is a list of Swiss charitable organizations in the form of open data. We are crowdsourcing this data, please feel free to contribute to the `data/crowd.csv` file. See also https://github.com/OpendataCH/charities
